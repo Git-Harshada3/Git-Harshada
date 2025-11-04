@@ -1,0 +1,2 @@
+In der Konfiguration des Automation Connector 
+Geben Sie die E-Mail-Adresse für die Anmeldung bei GitHub und das zuvor generierte persönliche Zugriffstoken ein.
