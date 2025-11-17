@@ -1,4 +1,5 @@
 In der Konfiguration des Automation Connector 
 Geben Sie die E-Mail-Adresse für die Anmeldung bei GitHub und das zuvor generierte persönliche Zugriffstoken ein.
 Test am Datum: 17/11/2025 17:47PM
-Testen, ob die Dateien im Zielordner gespeichert werden oder nicht
+Testen, ob die Dateien im Zielordner gespeichert werden oder nicht - Antwort ist Nein
+Ordnerstruktur wird getestet: 17-11-2025 23:28PM

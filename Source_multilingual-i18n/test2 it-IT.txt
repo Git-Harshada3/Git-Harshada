@@ -1,4 +1,5 @@
 Nella Configurazione del connettore di automazione, 
 Immettere l'indirizzo e-mail utilizzato per accedere a GitHub e il token di accesso personale generato in precedenza.
 Test in data: 17/11/2025 17:47PM
-Verifica se i file vengono memorizzati o meno nella cartella di destinazione
+Verifica se i file vengono memorizzati o meno nella cartella di destinazione - la risposta è No
+test della struttura delle cartelle: 17-11-2025 23:28PM
