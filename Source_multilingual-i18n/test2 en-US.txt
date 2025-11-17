@@ -1,4 +1,3 @@
 In the Automation Connector Configuration, 
 enter the email address used to log in to GitHub and the previously generated personal access token.
-Testing on Date: 17/11/2025
-this is a last attempt
+Testing on Date: 17/11/2025 11:30AM
