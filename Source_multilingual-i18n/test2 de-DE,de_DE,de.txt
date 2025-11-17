@@ -1,3 +1,0 @@
-In der Konfiguration des Automation Connector 
-Geben Sie die E-Mail-Adresse für die Anmeldung bei GitHub und das zuvor generierte persönliche Zugriffstoken ein.
-Test am Datum: 17/11/2025 11:30AM
