@@ -1,0 +1,3 @@
+I Konfiguration av automatiseringskontakt 
+Ange den e-postadress som användes för att logga in på GitHub och den tidigare genererade personliga åtkomsttoken.
+Test på datum: 17/11/2025
