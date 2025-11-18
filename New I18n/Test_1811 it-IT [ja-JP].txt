@@ -1,0 +1,4 @@
+questa stratigiaでは、e netusetario menzionare l'url di riacquisto、la cartella di origine e il Nome della diramazione da git nella configurazione del connettore di automazioneとなります。 
+Il file di origine della traduzione SI trova nella cartella di origine e、al termine della traduzione、i file tradotti、 
+Viene creato un file per lingua di destinazione nella stessa cartella del file di origine in Git. 
+第二次tentativo 18-11-2025 15:53:00です

@@ -1,0 +1,4 @@
+In dieser Strategie müssen wir die repo-url, den Quellordner und den Branch-Namen von git in der Automatisierungsverbinders erwähnen. 
+Die Ausgangsdatei aus der Übersetzung befindet sich im Quellordner, und wenn die Übersetzung abgeschlossen ist, werden die übersetzten Dateien 
+Du kan också välja att inte använda dig av den här funktionen. 
+Zweiter Versuch 18-11-2025 15:53:00

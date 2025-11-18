@@ -1,0 +1,4 @@
+I den här strategin måste vi nämna repo url, källmapp och filialnamn från git i automatiseringskopplingskonfigurationen. 
+Källfilen från översättningen finns i källmappen, och när översättningen är klar de översatta filerna, 
+En fil för målspråk skapas i samma källfilmapp i Git. 
+andra försöket 18–11-2025 15:53:00
