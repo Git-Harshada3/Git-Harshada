@@ -3,3 +3,4 @@ Source file from translation is in source folder, and when the translation is co
 one file per target language gets created in the same source file folder in Git. 
 second attempt 
 18-11 17:03
+18-11 17:08
