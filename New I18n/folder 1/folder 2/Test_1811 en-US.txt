@@ -1,4 +1,4 @@
 In this strategy, we need to mention repo url, source folder and branch name from git in the automation connector configuration. 
 Source file from translation is in source folder, and when the translation is complete the translated files, 
 one file per target language gets created in the same source file folder in Git. 
-second attempt 18-11-2025 15:30:00
+second attempt 18-11-2025 15:53:00
