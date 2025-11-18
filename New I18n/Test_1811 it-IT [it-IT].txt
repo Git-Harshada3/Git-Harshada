@@ -1,4 +1,0 @@
-In questa strategia, è necessario menzionare l'url di riacquisto, la cartella di origine e il nome della diramazione da git nella configurazione del connettore di automazione. 
-Il file di origine della traduzione si trova nella cartella di origine e, al termine della traduzione, i file tradotti, 
-Viene creato un file per lingua di destinazione nella cartella del file di origine in Git. 
-secondo tentativo 18-11-2025 15:53:00
