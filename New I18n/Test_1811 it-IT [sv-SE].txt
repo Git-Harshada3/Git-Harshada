@@ -1,4 +1,0 @@
-In questa strategia, e necesario menzionare l'url di riacquisto, la cartella di origine e il nome della diramazione da git nella connettore di automazione. 
-Il file di origine della tradzione si trova nella cartella di origine e, al termine della tradzione, i file tradotti, 
-Det är inte lätt att hitta en fil för att skapa en fil för origine i Git. 
-secondo tentativo 18–11-2025 15:53:00
