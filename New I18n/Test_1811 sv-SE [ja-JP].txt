@@ -1,4 +1,0 @@
-I den h a r in m a ste vi n a mna repo urlAk a llmapp och filialnamn fr a n git i autometiseringskopplingskonfigurationen‚Å‚·B 
-K a llfilen fra n o versa ttningen Finns i k a llmappen, OCH n a r o versa ttningen a r klar de o versfileratta, 
-en fil per m a lsup a k skapas i samma k a llfilmapp i gitB 
-Andra f o rs o ket 18-11-2025 15:53:00‚Å‚·
