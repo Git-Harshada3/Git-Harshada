@@ -1,4 +1,0 @@
-Dieser Strategie m u ssen wir die repo-urlでは、den Quellordner und den Branch-Namen von git in der Konfiguration des Automatisierungsverbinders erw a hnenにあります。 
-Die Ausgangsdatei AUS der U bersetzung befindet sich im Quellordner、und wenn die U bersetzung abgeschlossen ist、werden die u bersetzten Dateien 
-Eine Datei Pro Zielsprache widd im Gleichen Quelldateiordner in Git erstellt（英語） 
-Zweiter Versuch 18-11-2025 15:53:00です
