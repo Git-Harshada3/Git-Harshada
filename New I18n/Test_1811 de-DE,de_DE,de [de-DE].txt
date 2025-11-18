@@ -1,4 +1,0 @@
-In dieser Strategie müssen wir die repo-url, den Quellordner und den Branch-Namen von git in der Konfiguration des Automatisierungsverbinders ermitteln. 
-The Output Data from the Übersetzung befindet sich im Quellordner, und wenn die Übersetzung abgeschlossen ist, werden die übersetzten Dateien übernommen 
-Eine Datei pro Zielsprache wird im gleichen Quelldateinamen in Git erstellt. 
-Zweiter Versuch 18-11-2025 15:53:00
