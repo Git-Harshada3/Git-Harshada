@@ -1,5 +1,0 @@
-I Konfiguration av automatiseringskontakt 
-Ange den e-postadress som användes för att logga in på GitHub och den tidigare genererade personliga åtkomsttoken.
-Test på datum: 17/11/2025 17:47PM
-Testa om filerna lagras i målmappen eller inte - svaret är Nej
-testar mappstruktur: 17–11-2025 23:28PM
